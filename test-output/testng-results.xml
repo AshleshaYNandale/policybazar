@@ -95,12 +95,12 @@
       <![CDATA[closing browser]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-07-10T20:05:27 IST" name="Default suite" finished-at="2023-07-10T20:06:34 IST" duration-ms="66666">
+  <suite started-at="2023-07-21T22:00:07 IST" name="Default suite" finished-at="2023-07-21T22:00:45 IST" duration-ms="37997">
     <groups>
     </groups>
-    <test started-at="2023-07-10T20:05:27 IST" name="Default test" finished-at="2023-07-10T20:06:34 IST" duration-ms="66666">
+    <test started-at="2023-07-21T22:00:07 IST" name="Default test" finished-at="2023-07-21T22:00:45 IST" duration-ms="37997">
       <class name="test.PB_TC_1020_ValidatePolicyUserName">
-        <test-method is-config="true" signature="launchPolicyBazar()[pri:0, instance:test.PB_TC_1020_ValidatePolicyUserName@3e27ba32]" started-at="2023-07-10T20:05:27 IST" name="launchPolicyBazar" finished-at="2023-07-10T20:06:10 IST" duration-ms="42456" status="PASS">
+        <test-method is-config="true" signature="launchPolicyBazar()[pri:0, instance:test.PB_TC_1020_ValidatePolicyUserName@3e27ba32]" started-at="2023-07-21T22:00:07 IST" name="launchPolicyBazar" finished-at="2023-07-21T22:00:19 IST" duration-ms="11903" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[waiting for 100 milli sec]]>
@@ -113,7 +113,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- launchPolicyBazar -->
-        <test-method is-config="true" signature="signInToPolicyBazar()[pri:0, instance:test.PB_TC_1020_ValidatePolicyUserName@3e27ba32]" started-at="2023-07-10T20:06:10 IST" name="signInToPolicyBazar" finished-at="2023-07-10T20:06:28 IST" duration-ms="18092" status="PASS">
+        <test-method is-config="true" signature="signInToPolicyBazar()[pri:0, instance:test.PB_TC_1020_ValidatePolicyUserName@3e27ba32]" started-at="2023-07-21T22:00:19 IST" name="signInToPolicyBazar" finished-at="2023-07-21T22:00:39 IST" duration-ms="20036" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[waiting for 1000 milli sec]]>
@@ -174,7 +174,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- signInToPolicyBazar -->
-        <test-method signature="validateUserName()[pri:0, instance:test.PB_TC_1020_ValidatePolicyUserName@3e27ba32]" started-at="2023-07-10T20:06:28 IST" name="validateUserName" finished-at="2023-07-10T20:06:31 IST" duration-ms="3346" status="PASS">
+        <test-method signature="validateUserName()[pri:0, instance:test.PB_TC_1020_ValidatePolicyUserName@3e27ba32]" started-at="2023-07-21T22:00:39 IST" name="validateUserName" finished-at="2023-07-21T22:00:43 IST" duration-ms="3281" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[waiting for 1000 milli sec]]>
@@ -196,14 +196,14 @@
             </line>
           </reporter-output>
         </test-method> <!-- validateUserName -->
-        <test-method is-config="true" signature="logOutFromPolicyBazar()[pri:0, instance:test.PB_TC_1020_ValidatePolicyUserName@3e27ba32]" started-at="2023-07-10T20:06:31 IST" name="logOutFromPolicyBazar" finished-at="2023-07-10T20:06:32 IST" duration-ms="270" status="PASS">
+        <test-method is-config="true" signature="logOutFromPolicyBazar()[pri:0, instance:test.PB_TC_1020_ValidatePolicyUserName@3e27ba32]" started-at="2023-07-21T22:00:43 IST" name="logOutFromPolicyBazar" finished-at="2023-07-21T22:00:43 IST" duration-ms="289" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[logging out...]]>
             </line>
           </reporter-output>
         </test-method> <!-- logOutFromPolicyBazar -->
-        <test-method is-config="true" signature="closePolicyBazar()[pri:0, instance:test.PB_TC_1020_ValidatePolicyUserName@3e27ba32]" started-at="2023-07-10T20:06:32 IST" name="closePolicyBazar" finished-at="2023-07-10T20:06:34 IST" duration-ms="2415" status="PASS">
+        <test-method is-config="true" signature="closePolicyBazar()[pri:0, instance:test.PB_TC_1020_ValidatePolicyUserName@3e27ba32]" started-at="2023-07-21T22:00:43 IST" name="closePolicyBazar" finished-at="2023-07-21T22:00:45 IST" duration-ms="2438" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[waiting for 2000 milli sec]]>
